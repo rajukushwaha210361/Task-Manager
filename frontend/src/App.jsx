@@ -1,6 +1,6 @@
 import React from 'react'
 import TaskManager from './TaskManager'
-import './app.css'
+import './App.css';
 const App = () => {
   return (
     <div className="bg">
